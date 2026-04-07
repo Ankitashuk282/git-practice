@@ -1,3 +1,7 @@
 hello world
+<<<<<<< HEAD
 hola
+=======
+bonjour
+>>>>>>> french
 guten tag
